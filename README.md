@@ -1,4 +1,4 @@
-# Undetxploit Shell
+# Underxploit Shell
 File Manager &amp; Hacking Tools
 
 I made this shell with a responsive design and easy to access through any device, not only that this script design optimizes for acceleration when loading. 
