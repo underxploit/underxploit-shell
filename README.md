@@ -13,11 +13,16 @@ For the hacking feature I made it in version 0.1.4 and only features that often 
 
 You can add hacking features by adding the source to the shell, especially when the open source script is not encrypted and is clean of logs
 
-Home
+# ScreenShoot
 <hr>
-
 <img src="https://raw.githubusercontent.com/underxploit/underxploit-shell/master/capture/Untitled.png" width="100%">
 
+# Installer (2 In 1)
+<hr>
+You can download the small version, or the 2 in 1 shell installer. [https://pastebin.com/Gss4HSUk] (https://pastebin.com/Gss4HSUk)
 
+<img src="https://github.com/underxploit/underxploit-shell/blob/master/capture/pack.png?raw=true" width="100%">
 
-
+# Note
+<hr>
+This script will not work if you try to run it via localhost PC, but for localhost the mobile will work normally.
