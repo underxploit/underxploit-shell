@@ -28,3 +28,4 @@ Here : https://pastebin.com/Gss4HSUk
 # Note
 
 This script will not work if you try to run it via localhost PC, but for localhost the mobile will work normally.
+Login using default password : **root**
