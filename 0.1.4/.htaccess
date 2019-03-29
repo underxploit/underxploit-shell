@@ -1,4 +1,0 @@
-<IfModule mod_security.c> 
-Sec------Engine Off 
-Sec------ScanPOST Off 
-</IfModuleIfModule>
